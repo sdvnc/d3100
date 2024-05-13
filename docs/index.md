@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Быстрое создание API документации для вашего продукта
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

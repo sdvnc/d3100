@@ -1,6 +1,6 @@
 # Быстрое создание API документации для вашего продукта
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Мы оказываем услуги по созданию качественной документации для вашего API.
 
 ## Commands
 

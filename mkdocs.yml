@@ -1,0 +1,4 @@
+site_name: Создание API документации
+site_url: https://d3100.ru
+theme:
+  name: material
